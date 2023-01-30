@@ -59,4 +59,5 @@ jobs:
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.ACTION_ACCESS_TOKEN }}
           branch: gh-pages
