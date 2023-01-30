@@ -25,7 +25,7 @@ date: 2023-01-14T14:22:34+08:00
 
 [🍠小红书](https://www.xiaohongshu.com/user/profile/5de3c69a000000000100a5bc?xhsshare=CopyLink&appuid=5de3c69a000000000100a5bc&apptime=1675001335)
 
-🐦推特
+[🐦推特](https://twitter.com/cloxnu)
 
 ### 或者是加入我们的公测群
 
